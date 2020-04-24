@@ -2,6 +2,7 @@
 # Awesome Cursor
 
 <!-- ![npm bundle size][minsize-url] -->
+![npm][version-url]
 ![GitHub file size in bytes][filesize-url]
 ![jsDelivr hits (npm)][jsdelivr-url]
 
@@ -61,7 +62,8 @@ Examples:
 
 MIT
 
+[version-url]: https://img.shields.io/npm/v/awesome-cursor?style=for-the-badge&color=limegreen
 [filesize-url]: https://img.shields.io/github/size/NIshanthShankar/awesome-cursor/dist.min.js?style=for-the-badge
 [minsize-url]: https://img.shields.io/bundlephobia/min/awesome-cursor?style=for-the-badge
-[jsdelivr-url]: https://img.shields.io/jsdelivr/npm/hm/awesome-cursor?style=for-the-badge
+[jsdelivr-url]: https://img.shields.io/jsdelivr/npm/hm/awesome-cursor?style=for-the-badge&color=limegreen
 
