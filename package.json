@@ -1,0 +1,24 @@
+{
+  "name": "awesome-cursor",
+  "version": "1.0.0",
+  "description": "Change your website cursor to a modern circle cursor that snaps to elements similar to iPad cursor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishanthShankar/awesome-cursor.git"
+  },
+  "keywords": [
+    "cursor",
+    "js",
+    "html"
+  ],
+  "author": "Nishanth Shankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishanthShankar/awesome-cursor/issues"
+  },
+  "homepage": "https://github.com/NishanthShankar/awesome-cursor#readme"
+}
