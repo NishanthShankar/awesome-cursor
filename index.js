@@ -115,7 +115,7 @@
   }
 
   const setButtonListeners = function () {
-    const apItems = document.querySelectorAll('.ap-button')
+    const apItems = document.querySelectorAll('.ac-button')
     apItems.forEach(function (item) {
       item.removeEventListener('mouseleave', onMouseLeave)
       item.removeEventListener('mouseenter', onButtonEnter)
@@ -125,7 +125,7 @@
   }
 
   const setTextListeners = function () {
-    const spanItems = document.querySelectorAll(".ap-text")
+    const spanItems = document.querySelectorAll(".ac-text")
     spanItems.forEach(function (item) {
       item.removeEventListener('mouseleave', onMouseLeave)
       item.removeEventListener('mouseenter', onTextEnter)
