@@ -1,6 +1,6 @@
 {
   "name": "awesome-cursor",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Change your website cursor to a modern circle cursor that snaps to elements similar to iPad cursor",
   "main": "dist.min.js",
   "scripts": {

@@ -2,8 +2,10 @@
 # Awesome Cursor
 
 <!-- ![npm bundle size][minsize-url] -->
+
 ![npm][version-url]
 ![GitHub file size in bytes][filesize-url]
+![npm][downloads-url]
 ![jsDelivr hits (npm)][jsdelivr-url]
 
 > Change your website cursor to a modern circle cursor. Make it snap to elements
@@ -62,7 +64,8 @@ Examples:
 
 MIT
 
-[version-url]: https://img.shields.io/npm/v/awesome-cursor?style=for-the-badge&color=limegreen
+[downloads-url]: https://img.shields.io/npm/dt/awesome-cursor?style=for-the-badge&color=blue
+[version-url]: https://img.shields.io/npm/v/awesome-cursor?style=for-the-badge
 [filesize-url]: https://img.shields.io/github/size/NIshanthShankar/awesome-cursor/dist.min.js?style=for-the-badge
 [minsize-url]: https://img.shields.io/bundlephobia/min/awesome-cursor?style=for-the-badge
 [jsdelivr-url]: https://img.shields.io/jsdelivr/npm/hm/awesome-cursor?style=for-the-badge&color=limegreen
